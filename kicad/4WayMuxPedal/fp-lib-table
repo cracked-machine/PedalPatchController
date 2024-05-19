@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SOT-23-THIN-14")(type "KiCad")(uri "/home/chris/projects/pcb/4WayPedalMux/kicad/footprints/SOT-23-THIN-14.pretty")(options "")(descr ""))
+)
